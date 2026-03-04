@@ -1,3 +1,16 @@
+---
+name: social-plus-core-messaging
+description: >
+  Official brand messaging reference for social.plus. Use this skill when writing,
+  reviewing, or generating any content for social.plus — including website copy,
+  blog posts, sales materials, product narratives, email communication, investor
+  messaging, or AI-generated content. Also triggers when terminology, tone of
+  voice, boilerplate descriptions, elevator pitches, objection handling, or
+  writing style rules for social.plus are needed. When in doubt about how to
+  describe social.plus, what terms to use or avoid, or how to frame a claim,
+  consult this skill first.
+---
+
 # social.plus Core Messaging
 
 ---
