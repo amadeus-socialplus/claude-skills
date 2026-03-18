@@ -1,0 +1,9 @@
+{
+  "name": "social-plus-marketing",
+  "version": "0.1.0",
+  "description": "Shared marketing plugin for the social.plus team. Ensures all content Claude produces aligns with the latest brand messaging, fetched live from GitHub.",
+  "author": {
+    "name": "social.plus"
+  },
+  "repository": "https://github.com/socialplus-tools/claude-skills"
+}
