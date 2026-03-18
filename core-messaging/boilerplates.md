@@ -4,7 +4,7 @@ Sections 21–22 of the social.plus Core Messaging document.
 
 ---
 
-# 21. Boilerplates
+# Boilerplates
 
 The following standardized descriptions should be used when introducing social.plus in different contexts.
 
@@ -20,7 +20,7 @@ social.plus is an in-app community infrastructure platform that enables apps to 
 
 ## 100-word version
 
-social.plus provides comprehensive in-app community infrastructure for digital products. Through SDKs, APIs, and UI components, apps can embed familiar social experiences directly into their environments. This enables structured participation, deeper engagement, and the generation of first-party and zero-party data. As engagement grows, organizations gain clearer insight into user intent and unlock new activation and monetization pathways. social.plus brings engagement, intelligence, and revenue potential together within a single, scalable foundation.
+social.plus provides comprehensive in-app community infrastructure for digital products. Through SDKs, APIs, and UI Kits, apps can embed familiar social experiences directly into their environments. This enables structured participation, deeper engagement, and the generation of first-party and zero-party data. As engagement grows, organizations gain clearer insight into user intent and unlock new activation and monetization pathways. social.plus brings engagement, intelligence, and revenue potential together within a single, scalable foundation.
 
 ## Extended description
 
@@ -28,7 +28,7 @@ social.plus is a comprehensive in-app community infrastructure platform designed
 
 ---
 
-# 22. Elevator Pitches
+# Elevator Pitches
 
 The following elevator pitches are situational. They should be adapted slightly to context but not fundamentally altered.
 
